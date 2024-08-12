@@ -1,0 +1,29 @@
+Buatlah sebuah program untuk menghitung jumlah kemunculan tiga buah huruf berpasangan (tidak terpisah oleh spasi) yang ada di dalam sebuah array karakter, dengan ketentuan bahwa huruf besar dengan huruf kecil dianggap sama.
+
+Spesifikasi Input
+
+Baris pertama berisi sebuah teks dengan jumlah karakter maksimal 40 huruf.
+Baris kedua berisi sebuah huruf utama yang akan dicari.
+Baris ketiga dan keempat berisi huruf-huruf yang mengikuti huruf utama .
+
+Spesifikasi Output
+Satu baris berisi sebuah bilangan bulat yang menunjukkan banyaknya kemunculan tiga huruf berpasangan tersebut
+For example:
+
+Input
+Politeknik Negeri Bandung
+o
+l
+i
+
+Kakak beradik itu sangat mirip
+k
+a
+k
+
+
+
+Result
+1
+
+2

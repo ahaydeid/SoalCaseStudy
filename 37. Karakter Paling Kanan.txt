@@ -1,0 +1,22 @@
+Buatlah sebuah program untuk menampilkan N buah karakter terkanan dari sebuah array karakter.
+
+Spesifikasi Input
+Baris pertama berisi sebuah string/array karakter S dengan panjang maksimal 30 karakter.
+Baris kedua berisi sebuah bilangan bulat N (0 sampai panjang karakter S).
+
+Spesifikasi Output
+Satu baris berisi N buah karakter terkanan dari string S.
+
+For example:
+
+Input
+Politeknik
+10
+
+S O S
+3
+
+Result
+Politeknik
+
+O S

@@ -1,0 +1,44 @@
+Buatlah sebuah program untuk membandingkan dua buah kata pada array karakter dengan maksimal masing-masing berjumlah 10 elemen.
+
+Huruf besar berbeda dengan huruf kecil. Gunakan kode ASCII untuk membandingkan.
+
+Spesifikasi Input
+Baris pertama dan baris kedua masing-masing berisi array karakter K1 dan K2 dengan maksimal 10 elemen.
+
+Spesifikasi Output
+Baris pertama berisi:
+
+0 jika K1 = K2
+-N jika K1 < K2
++N jika K1 > K2
+dengan N menyatakan perbedaan/selisih kode ASCII dari karakter pertama yang berbeda pada kedua kata yang dibandingkan.
+
+Baris kedua berisi sebuah bilangan bulat yang menyatakan posisi karakter pertama yang berbeda dari proses perbandingan K1 dan K2, atau berisi 0 jika K1 = K2.
+
+For example:
+
+Input:
+aa
+aba-aba
+
+Sayah
+Saya
+
+Saya
+Saya
+
+Saya
+saya
+
+Result:
+-1
+2
+
++104
+5
+
+0
+0
+
+-32
+1

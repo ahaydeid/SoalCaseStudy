@@ -1,0 +1,23 @@
+Buatlah program untuk memeriksa apakah sebuah blok yang ada di permainan sudoku valid atau tidak. Blok tersebut dinyatakan valid jika setiap angka hanya muncul satu kali (unik).
+
+Spesifikasi Input
+Tiga baris berisi elemen-elemen dari blok sudoku, di mana setiap elemen merupakan bilangan bulat yang dipisahkan oleh spasi dalam satu barisnya.
+
+Spesifikasi Output
+Satu baris berisi “valid” jika blok sudoku valid, atau “tidak valid” jika blok sudoku tidak valid.
+
+For example:
+
+Input
+1 3 9
+2 5 7
+8 4 6
+
+1 2 3
+4 5 6
+1 8 9
+
+Result
+valid
+
+tidak valid

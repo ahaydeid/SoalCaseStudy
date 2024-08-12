@@ -1,0 +1,21 @@
+Buatlah barisan bilangan yang disimpan dalam array satu dimensi bertipe integer dengan 15 elemen.
+Nama array untuk menyimpan barisan adalah barisanBilangan. Barisan yang akan dibuat memiliki pola sebagai berikut:
+
+3, 6, 10, 15, 18, 22, 27, ...
+
+Pola penambahannya adalah: +3, +4, +5.
+Prosesnya adalah bilangan inputan ditambah 3, lalu hasilnya ditambahkan 4, lalu hasilnya ditambahkan 5, lalu hasilnya ditambahkan lagi dengan pola berulang: +3, +4, +5, dan seterusnya
+
+Spesifikasi Input
+Satu baris berisi sebuah bilangan bulat S (-100 sampai 100) sebagai suku pertama dari barisan yang akan dibuat.
+
+Spesifikasi Output
+Satu baris berisi 15 buah bilangan bulat yang merupakan isi dari array barisanBilangan.
+
+For example:
+
+Input
+3
+
+Result
+3 6 10 15 18 22 27 30 34 39 42 46 51 54 58

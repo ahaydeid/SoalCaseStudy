@@ -1,0 +1,22 @@
+Buatlah program untuk menghitung penjumlahan dari A/B dan C/D dan mengeluarkan hasilnya dalam bentuk yang paling sederhana. 
+
+(Bentuk paling sederhana dari suatu pecahan adalah ketika FPB dari pembilang dan penyebutnya adalah 1.)
+
+Spesifikasi Input
+
+
+Baris pertama berisi dua buah bilangan bulat A dan B.
+
+Baris kedua berisi dua buah bilangan bulat C dan D.
+
+Batasan nilainya adalah 0 ≤ A, B, C, D ≤ 100.000, dengan B ≠ 0 dan D ≠ 0.
+Spesifikasi Output
+
+Sebuah baris berisi dua buah bilangan bulat, yaitu E dan F, di mana E/F = A/B + C/D dan E/F adalah bentuk yang paling sederhana.
+
+For example:
+
+Input	Result
+2 4
+3 8
+7 8

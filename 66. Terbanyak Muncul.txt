@@ -1,0 +1,44 @@
+Ima adalah mahasiswa JTK yang cukup pendiam. Dalam satu hari, Ima tidak mungkin mengobrol lebih dari 1.000 kali.
+
+Anda sebagai orang yang menyukai Ima tentu ingin mengobrol sesering mungkin dengan Ima. Namun, Anda ingin tahu siapakah saingan Anda, yaitu orang yang paling sering mengobrol dengan Ima pada hari tersebut. (Sehingga, Anda dapat mencegah Ima bertemu dengan orang tersebut pada keesokan harinya!)
+
+Setiap orang di gedung JTK mengenakan sebuah ID card. Pada ID card tersebut, terdapat sebuah nomor, di mana nomor ini berada pada jangkauan 0 ≤ nomor ≤ 99. Tidak ada dua orang atau lebih yang memiliki ID card dengan nomor yang sama. Di gedung JTK dipastikan pasti ada 100 orang yang mengenakan ID card.
+
+Anda diberikan data: pada satu hari, berapa kali Ima mengobrol, disertai data dengan siapa Ima mengobrol pada setiap kalinya. Tentukanlah siapa yang pada hari itu paling banyak mengobrol dengan Ima!
+
+Spesifikasi Input
+Baris pertama berisi sebuah bilangan bulat N (1 ≤ N ≤ 1.000), yaitu frekuensi Ima mengobrol dengan orang lain pada hari tersebut.
+
+N baris berikutnya berisi sebuah bilangan bulat X (0 ≤ X ≤ 99), yaitu dengan seseorang dengan ID card nomor berapa Ima mengobrol pada kesempatan tersebut.
+
+Dijamin bahwa dari seluruh obrolan yang terjadi, hanya ada satu orang yang jumlah obrolannya paling banyak dengan Ima. (Tidak mungkin ada kasus, misalnya, ada dua orang yang sama-sama paling sering mengobrol dengan Ima.)
+
+Spesifikasi Output
+Satu baris berisi angka yang tertera pada ID card dari orang yang paling sering mengobrol dengan Ima.
+For example:
+
+Input
+6
+96
+4
+2
+96
+2
+96
+
+10
+8
+4
+3
+2
+5
+4
+3
+3
+5
+1
+
+Result
+96
+
+3

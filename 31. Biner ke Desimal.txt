@@ -1,0 +1,17 @@
+Buatlah program untuk mengonversi bilangan biner ke bilangan desimal.
+
+Spesifikasi Input
+Satu baris berisi bilangan biner X dengan panjang maksimal 31 bit.
+
+Spesifikasi Output
+Satu baris berisi representasi X dalam bilangan desimal.
+
+For example:
+
+Input
+110101
+10111
+
+Result
+53
+23

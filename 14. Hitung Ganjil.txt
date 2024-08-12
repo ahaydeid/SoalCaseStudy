@@ -1,0 +1,25 @@
+Buatlah sebuah program untuk menghitung banyaknya kemunculan bilangan ganjil pada array X, di mana X adalah array 2 dimensi berordo 4 × 4.
+
+Spesifikasi Input
+Empat baris masing-masing berisi empat bilangan bulat positif untuk mengisi array X.
+
+Spesifikasi Output
+Satu baris berisi jumlah bilangan ganjil yang ada di array X.
+
+For example:
+
+Input
+1 1 1 1
+2 2 2 2
+3 3 3 3
+4 4 4 4
+
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+
+Result
+8
+
+16

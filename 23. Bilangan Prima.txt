@@ -1,0 +1,20 @@
+Dalam matematika, bilangan prima adalah bilangan asli yang lebih besar dari angka 1, yang faktor pembaginya adalah 1 dan bilangan itu sendiri.
+
+Diketahui bilangan X, tentukanlah apakah X merupakan bilangan prima atau bukan.
+
+
+Spesifikasi Input
+Satu baris berisi bilangan bulat X (2 sampai 32.750).
+
+Spesifikasi Output
+Satu baris berisi “prima” apabila X merupakan bilangan prima, atau “bukan prima” apabila X bukan merupakan bilangan prima.
+
+For example:
+
+Input
+7
+8
+
+Result
+prima
+bukan prima

@@ -1,0 +1,17 @@
+Buatlah sebuah program untuk menentukan apakah suatu karakter merupakan huruf vokal atau bukan.
+
+Spesifikasi Input
+Satu baris berisi satu buah karakter yang akan diperiksa. (boleh huruf kecil atau kapital)
+
+Spesifikasi Output
+Satu baris berisi “true” jika karakter yang dimasukkan merupakan huruf vokal, atau “false” jika sebaliknya.
+
+Contoh:
+
+Input
+a
+D
+
+Output
+true
+false

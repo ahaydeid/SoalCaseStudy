@@ -1,0 +1,17 @@
+uatlah program untuk membuat pola seperti pada contoh input dan contoh output.
+
+Spesifikasi Input
+Satu baris berisi dua buah bilangan bulat B dan K (1 ≤ B, K ≤ 10).
+
+Spesifikasi Output
+Pola berukuran B × K dengan pola seperti pada contoh output.
+
+For example:
+
+Input
+3 5
+
+Result
+1 6 7 12 13
+2 5 8 11 14
+3 4 9 10 15

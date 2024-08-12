@@ -1,0 +1,22 @@
+Seorang arkeolog bernama Pak Wono harus menyampaikan isi suatu literatur kuno kepada temannya, Pak Hamzi. Namun, literatur kuno tersebut isinya panjang sekali. Beruntung, Pak Wono menyadari bahwa mayoritas isi literatur kuno tersebut adalah angka Romawi (yang panjang-panjang). Pak Wono kemudian menyalin angka Romawi tersebut ke sebuah kertas dalam bentuk angka desimal supaya penulisannya lebih singkat.
+
+Ketika tiba di kediaman Pak Hamzi, Pak Wono mengeluarkan kertas berisi angka-angka desimal yang dicatatnya sebelum berangkat. Namun, karena Pak Wono sudah tua, Pak Wono lupa cara mengonversi angka desimal yang ditulisnya kembali ke angka Romawi. (Pak Hamzi pun demikian – keduanya sama-sama sudah tua.)
+
+Pak Wono kemudian melihat Anda sedang bermain komputer di pojok ruangan Pak Hamzi. Menyadari Anda adalah seorang mahasiswa yang sedang belajar informatika di POLBAN, Pak Wono kemudian meminta Anda membuatkannya program untuk mengonversi angka desimal menjadi angka Romawi.
+
+
+Spesifikasi Input
+
+Satu baris berisi sebuah angka desimal bulat, tidak akan lebih besar dari 4.000, dan selalu positif.
+
+Spesifikasi Output
+
+Satu baris berisi sebuah angka Romawi hasil konversi dari angka desimal yang dibaca Pak Wono dan Pak Hamzi.
+
+For example:
+
+Input
+24
+
+Result
+XXIV

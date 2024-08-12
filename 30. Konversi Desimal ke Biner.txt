@@ -1,0 +1,17 @@
+Buatlah program untuk mengonversi bilangan desimal ke bilangan biner.
+
+Spesifikasi Input
+Satu baris berisi satu buah bilangan bulat positif X (1 ≤ X ≤ 231 – 1).
+
+Spesifikasi Output
+Satu baris berisi representasi X dalam bilangan biner tanpa awalan bit 0.
+
+For example:
+
+Input
+53
+23
+
+Result
+110101
+10111

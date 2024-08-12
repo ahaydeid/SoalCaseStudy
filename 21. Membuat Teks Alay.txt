@@ -1,0 +1,40 @@
+Membuat Teks Alay
+
+
+Buatlah sebuah program untuk mengubah suatu kalimat ke dalam bentuk “alay”.
+
+Ketentuannya adalah:
+
+Huruf
+A atau a
+I atau i
+Z atau z
+E atau e
+G atau g
+J atau j
+B atau b
+
+Diubah menjadi
+4
+1
+2
+3
+6
+7
+8
+
+
+Spesifikasi Input
+Satu baris berisi string/array karakter dengan panjang maksimal 50 karakter.
+
+Spesifikasi Output
+Satu baris berisi string yang sudah berada dalam bentuk “alay”.
+For example:
+
+Input
+Karya teknologi Indonesia telah mendunia
+Aku ganteng
+
+Result
+K4ry4 t3knolo61 1ndon3s14 t3l4h m3ndun14
+4ku 64nt3n6

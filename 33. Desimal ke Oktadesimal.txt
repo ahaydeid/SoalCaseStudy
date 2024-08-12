@@ -1,0 +1,19 @@
+Konversi Desimal ke Oktadesimal
+
+Buatlah program untuk mengonversi bilangan desimal ke bilangan oktadesimal (basis 8).
+
+Spesifikasi Input
+Satu baris berisi satu buah bilangan bulat positif X (1 smapai 2^31 – 1).
+
+Spesifikasi Output
+Satu baris berisi representasi X dalam bilangan oktadesimal tanpa awalan digit 0.
+
+For example:
+
+Input
+53
+26
+
+Result
+65
+32

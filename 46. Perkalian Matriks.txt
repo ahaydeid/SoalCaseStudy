@@ -1,0 +1,49 @@
+Anda diberikan dua buah matriks. Matriks pertama berukuran A × B sedangkan matriks kedua berukuran C × D. Tiap elemen pada kedua matriks tersebut adalah sebuah bilangan bulat antara 1 sampai 100. Kalikan kedua matriks tersebut lalu cetak hasilnya.
+
+Petunjuk:
+
+Dalam matematika, matriks A dan matriks B dapat diperkalikan. Syaratnya: jika ukuran matriks A adalah m × n, maka ukuran matriks B haruslah n × p. Matriks baru hasil perkalian, misalnya C, akan berukuran m × p. Rumus perkaliannya sebagai berikut (C[i,j] adalah elemen C pada baris ke-i dan kolom ke-j):
+
+
+
+
+
+Spesifikasi Input
+Baris pertama berisi dua buah bilangan bulat A dan B. A baris berikutnya masing-masing berisi B buah bilangan bulat, yaitu elemen-elemen pada matriks pertama.
+Baris berikutnya berisi dua buah bilangan bulat C dan D. C baris berikutnya masing-masing berisi D buah bilangan bulat, yaitu elemen-elemen pada matriks kedua.
+
+Jangkauan nilainya adalah (1 ≤ A, B, C, D ≤ 75; B = C).
+
+Spesifikasi Output
+A buah baris, masing-masing berisi D buah bilangan bulat yang dipisahkan oleh spasi, yaitu elemen-elemen pada matriks hasil perkalian matriks pertama dan matriks kedua.
+
+ 
+
+
+For example:
+
+Input:
+2 3
+1 1 1
+1 1 2
+3 4
+1 1 1 1
+1 1 1 1
+1 1 1 2
+
+2 3
+1 2 4
+2 6 0
+3 4
+4 1 4 3
+0 -1 3 1
+2 7 5 2
+
+
+Result:
+
+3 3 3 4
+4 4 4 6
+
+12 27 30 13
+8 -4 26 12

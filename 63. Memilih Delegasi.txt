@@ -1,0 +1,31 @@
+Acara pertandingan Gemastik akan diselenggarakan tahun depan, Saiful sebagai koordinator kompetisi di himpunan harus segera memilih delegasi dari HIMAKOM untuk bertanding di Gemastik tahun depan.
+
+Di HIMAKOM terdapat N mahasiswa yang selalu siap untuk dipilih menjadi delegasi pertandingan, sedangkan Saiful harus memilih M mahasiswa sebagai delegasi yang akan dikirimkan ke pertandingan Gemastik.
+
+Misal terdapat 3 mahasiswa (A,B,C) yang siap untuk dipilih, dan saiful membutuhkan hanya 2 mahasiswa saja sebagai delegasi, maka banyaknya cara untuk memilihnya bisa sebagai berikut :
+
+1. A,B
+
+2. B,C
+
+3. A,C
+
+Sehingga terdapat 3 cara untuk memilih delegasi dari contoh kasus tersebut.
+
+Saiful kebingungan untuk menghitung berapa jumlah cara untuk memilih M mahasiswa tersebut, oleh karena itu bantulah Saiful untuk menghitung banyak nya cara memilih delegasi yang harus dikirimkan ke pertandingan Gemastik agar HIMAKOM bisa #BirukanDunia di Panggung Gemastik.
+
+Spesifikasi Input
+Satu baris berisi bilangan bulat N yang menunjukkan jumlah mahasiswa di HIMAKOM yang selalu siap untuk dipilih ikut pertandingan, dan bilangan bulat M yang menunjukkan jumlah mahasiswa yang harus dipilih sebagai delegasi dari HIMAKOM ( 1 ≤ N,M ≤ 12 dan N ≥ M ).
+
+Spesifikasi Output
+Sebuah baris berisi bilangan bulat yang menunjukkan banyaknya cara untuk memilih delegasi dari HIMAKOM
+
+For example:
+
+Input:
+3 2
+4 2
+
+Result:
+3
+6

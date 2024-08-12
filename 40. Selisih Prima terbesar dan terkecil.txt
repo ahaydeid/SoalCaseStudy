@@ -1,0 +1,18 @@
+Dalam matematika, bilangan prima adalah bilangan asli yang lebih besar dari angka 1, yang faktor pembaginya adalah 1 dan bilangan itu sendiri.
+
+Diketahui bilangan X dan Y, hitunglah selisih bilangan prima terbesar dan bilangan prima terkecil mulai dari X sampai Y.
+
+Spesifikasi Input
+Satu baris berisi dua buah bilangan positif X dan Y (X = 2 dan lebih kecil dari Y, Y = lebih besar dari X dan paling besar 32.750). Pada jangkauan dari X sampai Y, dijamin ada minimal satu buah bilangan prima.
+
+Spesifikasi Output
+Satu baris berisi bilangan bulat yang menyatakan selisih bilangan prima terbesar dan bilangan prima terkecil mulai dari X sampai Y
+
+For example:
+
+Input
+2 10
+
+Result
+
+5

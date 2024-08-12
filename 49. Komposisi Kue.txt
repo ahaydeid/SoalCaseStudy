@@ -1,0 +1,80 @@
+Kedua buah kue dapat dikatakan sama apabila kesamaan komposisi keduanya lebih dari atau sama dengan N% (urutan komposisi kue tidak dipermasalahkan).
+
+Sebuah kue maksimal terdiri dari 8 bahan yang berbeda. Bahan-bahan itu adalah
+
+telur
+gula
+ragi
+tepung
+mentega
+air
+coklat
+susu
+kentang
+fermipan
+keju
+nanas
+sosis
+(semua kode bahan merupakan huruf kecil)
+
+Anda diberikan komposisi dari kue K dan kue L yang masing-masing disimpan ke sebuah array. Tentukanlah apakah kue K dan kue L sama.
+
+
+Spesifikasi Input
+Baris pertama berisi sebuah bilangan riil N (50 ≤ N ≤ 100) dalam satuan persentase sebagai batas minimal dua buah kue dinyatakan sama.
+Baris kedua berisi sebuah bilangan bulat P (1 ≤ P ≤ 8) yang menunjukkan jumlah komposisi pada kue K.
+P baris berikutnya berisi masing-masing komposisi kue K.
+Baris kedua berisi sebuah bilangan bulat Q (1 ≤ Q ≤ 8) yang menunjukkan jumlah komposisi pada kue L.
+Q baris berikutnya berisi masing-masing komposisi kue L.
+
+
+Spesifikasi Output
+Satu baris berisi “sama” apabila kue K dan kue L sama, atau “tidak sama” apabila kue K dan kue L tidak sama.
+
+For example:
+
+Input:
+100.0
+8
+telur
+gula
+ragi
+mentega
+nanas
+coklat
+tepung
+fermipan
+8
+tepung
+kentang
+nanas
+ragi
+mentega
+coklat
+tepung
+sosis
+
+70.0
+8
+telur
+gula
+ragi
+mentega
+nanas
+kentang
+tepung
+fermipan
+8
+telur
+mentega
+gula
+ragi
+nanas
+coklat
+tepung
+fermipan
+
+Result:
+tidak sama
+
+sama

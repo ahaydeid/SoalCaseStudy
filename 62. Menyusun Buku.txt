@@ -1,0 +1,29 @@
+Anjani seorang gadis berambut putih sangat senang mengoleksi dan membaca buku. Suatu ketika anjani membeli M buah buku baru untuk dibaca, tetapi rak buku yang ada di perpustakaan rumahnya sudah tidak cukup untuk menyimpan M buah buku barunya tersebut.
+
+Anjani ingat bahwa ada seorang lelaki di masa lalunya yang selalu siap membantunya dalam kondisi apapun walaupun lelaki tersebut pernah melukai hatinya. Akhirnya Anjani meminta tolong kepada lelaki tersebut untuk membuatkan rak buku yang baru yang terdiri dari N slot buku.
+Akhirnya lelaki tersebut berhasil menolong Anjani dan Anjani pun sangat merasa senang akhirnya buku yang dia beli dapat rapih untuk disimpan. Tetapi ada hal yang membut Anjani “Galau” karena dia bingung lebih baik disusun dengan urutan bagaimana M buah buku tersebut di N slot pada rak yang baru dibuat.
+Anjani teringat bahwa lelaki tersebut dulunya adalah seorang juara di Olimpiade Komputer, sehingga Anjani mempercayai lelaki tersebut untuk memikirkan banyak nya cara untuk menyusun buku-bukunya di rak yang baru agar dia dapat memilih sususan terbaik. Lelaki tersebut ternyata sudah lama tidak bergelut dengan kasus seperti ini, karena lelaki tersebut tidak ingin mengecewakan Anjani dan ingin membuat hatinya senang.
+Lelaki tersebut ingat bahwa semua mahasiswa JTK tingkat 1 adalah pejuang-pejuang yang memiliki kemampuan DDP yang hebat dan tak terkalahkan, oleh karena lelaki tersebut meminta bantuan kamu untuk membuat program menentukan banyaknya cara untuk menyusun buku yang dimiliki Anjani.
+Misal Anjani hanya membeli sebuah buku (A) dan terdapat tiga slot pada rak buku baru, maka terdapat 3 macam cara menysusun diantarnya :
+
+1.       A _ _
+
+2.       _ A _
+
+3.       _ _ A
+
+Spesifikasi Input
+Satu baris berisi bilangan bulat M yang menunjukkan jumlah buku yang baru dibeli oleh Anjani, dan bilangan bulat N yang menunjukkan jumlah slot buku yang tersedia pada rak baru  ( 1 ≤ N,M ≤ 12 dan N ≥ M ).
+
+Spesifikasi Output
+Sebuah baris berisi bilangan bulat yang menunjukkan banyaknya cara untuk menyimpan buku baru nya Anjani.
+
+For example:
+
+Input:
+1 3
+2 3
+
+Result:
+3
+6

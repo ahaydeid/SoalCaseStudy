@@ -1,0 +1,17 @@
+Buatlah program untuk menentukan jumlah perkalian dua angka dengan menggunakan konsep modular untuk menghitung perkalian tersebut.
+
+Spesifikasi Input
+Satu baris berisi dua buah bilangan bulat yang menujukkan bilangan ke-1 dan bilangan ke-2.
+
+Spesifikasi Output
+Satu barus berisi dua buah bilangan bulat yang menunjukkan hasil perkalian bilangan ke-1 dan bilangan ke-2
+
+For example:
+
+Input
+1 2
+2 3
+
+Result
+2
+6

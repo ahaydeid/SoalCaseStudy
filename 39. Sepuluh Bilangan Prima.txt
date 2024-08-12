@@ -1,0 +1,19 @@
+Dalam matematika, bilangan prima adalah bilangan asli yang lebih besar dari angka 1, yang faktor pembaginya adalah 1 dan bilangan itu sendiri.
+
+Diketahui sebuah array A dengan 10 elemen, hitunglah ada berapa bilangan prima pada array A tersebut.
+
+Spesifikasi Input
+Satu baris berisi 10 bilangan bulat A1, A2, ..., A10 (0 sampai 32.750).
+
+Spesifikasi Output
+Satu baris berisi bilangan bulat yang menyatakan jumlah kemunculan bilangan prima pada array A.
+
+For example:
+
+Input
+0 1 2 3 4 5 6 7 8 9
+12 4 6 0 9 8 6 20 14 16
+
+Result
+4
+0

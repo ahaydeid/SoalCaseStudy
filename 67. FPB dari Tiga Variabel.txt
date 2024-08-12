@@ -1,0 +1,21 @@
+FPB (Faktor Persekutuan Terbesar) dari dua buah bilangan bulat A dan B adalah bilangan bulat non-negatif terbesar yang membagi A dan membagi B.  FPB dari tiga buah bilangan bulat A,B,C adalah bilangan bulat non-negatif terbesar yang membagi A,B, dan C. Contoh FPB dari  5 10 20 adalah 5.
+
+Mencari FPB dari Tiga Variabel bisa juga dengan cara menentukan FPB dari dua variabel diantara tiga variabel lalu hasil FPB dari dua variabel tersebut dicari lagi FPB nya dengan satu variabel yang lain. Contoh FPB dari 5 10 20 adalah FPB dari 20 dan FPB dari 5 dan 10.
+
+Buatlah program untuk menentukan FPB dari tiga variabel.
+
+(Gunakanlah algoritma FPB yang sudah dibuat di soal sebelumnya, dan jadikan sebagai modul FPB untuk memermudah perhitungan FPB).
+
+Spesifikasi Input
+Satu baris berisi tiga buah bilangan bulat A,B dan C ( 1 ≤ A,B,C ≤ 500 ).
+
+Spesifikasi Output
+Satu baris berisi sebuah bilangan bulat FPB dari A,B, dan C.
+
+For example:
+
+Input
+5 10 20
+
+Result
+5

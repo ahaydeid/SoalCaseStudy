@@ -1,0 +1,48 @@
+Kuadran Tertentu Dipindahkan
+
+
+Diketahui array of Point bernama A dengan maksimal M elemen. Isilah array of Point bernama B dengan elemen-elemen dari A yang berada di kuadran N.
+
+Gunakan tipe data bentukan komposit bernama Point sebagai berikut:
+
+typedef struct {
+  int x;
+  int y;
+} Point;
+
+Spesifikasi Input
+Baris pertama merupakan sebuah bilangan bulat M (1 ≤ M ≤ 10) yang menunjukkan jumlah elemen pada array A.
+
+M baris berikutnya merupakan M buah Point yang merupakan elemen-elemen dari array A, terdiri dari dua bilangan bulat yang masing-masing menunjukkan koordinat di sumbu x dan y.
+
+Baris terakhir merupakan sebuah bilangan bulat N (1 ≤ N ≤ 4) yang menunjukkan kuadran.
+
+
+Spesifikasi Output
+Baris pertama berisi sebuah bilangan bulat yang menunjukkan jumlah kemunculan titik di kuadran N.
+N baris berikutnya berisi elemen-elemen dari array B.
+
+For example:
+
+Input:
+3
+1 4
+2 1
+-4 -9
+1
+
+4
+-1 -1
+1 3
+-1 2
+4 -5
+4
+
+
+Result:
+2
+1 4
+2 1
+
+1
+4 -5

@@ -1,0 +1,23 @@
+Diketahui sebuah array satu dimensi bertipe char bernama X dengan 10 elemen berisi sebagai berikut:
+
+J, T, K, P, o, l, b, a, n
+
+Buatlah program untuk memeriksa apakah suatu huruf berada di array X atau tidak. (Dalam melakukan pencarian, huruf kecil dan besar dianggap sama.)
+
+Spesifikasi Input
+Satu baris berisi sebuah huruf yang ingin dicari di array X.
+
+Spesifikasi Output
+Satu baris berisi “ada” jika huruf yang dicari ditemukan, atau “tidak ada” jika huruf yang dicari tidak ditemukan.
+
+For example:
+
+Input
+t
+
+X
+
+Result
+ada
+
+tidak ada

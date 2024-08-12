@@ -1,0 +1,17 @@
+Buatlah sebuah program untuk membalik array karakter yang dimasukkan.
+
+Spesifikasi Input
+Satu baris berisi teks dengan panjang maksimal 10 karakter.
+
+Spesifikasi Output
+Satu baris berisi teks yang sudah dibalik.
+
+For example:
+
+Input:
+Saya
+programmer
+
+Result:
+ayaS
+remmargorp

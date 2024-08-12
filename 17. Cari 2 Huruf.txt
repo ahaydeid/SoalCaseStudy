@@ -1,0 +1,20 @@
+Diketahui sebuah array 1 dimensi bertipe char bernama X dengan isi sebagai berikut:
+
+J,T,K,P,o,l,b,a,n
+Buatlah program untuk memeriksa apakah huruf yang berpasangan ada di dalam array atau tidak. (Huruf kecil dan besar dianggap sama.)
+
+Spesifikasi Input
+Satu baris berisi dua buah karakter alfabet, masing-masing merupakan huruf yang dicari bersama pasangannya
+
+Spesifikasi Output
+Satu baris berisi “ada” jika huruf pertama yang dicari berada tepat setelah huruf kedua yang dicari, atau “tidak ada” jika huruf pertama tidak ada atau tidak berada tepat setelah huruf pasangannya
+
+For example:
+
+Input:
+L o
+b a
+
+Result:
+ada
+tidak ada

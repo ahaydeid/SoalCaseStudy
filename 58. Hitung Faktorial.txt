@@ -1,0 +1,17 @@
+Buatlah program untuk menghitung faktorial dari suatu bilangan dengan menggunakan konsep modular.
+
+Spesifikasi Input
+Satu baris berisi sebuah bilangan bulat N ( 0 ≤ N ≤ 12 )
+
+Spesifikasi Output
+Satu barus berisi sebuah bilangan bulat hasil dari N!
+
+For example:
+
+Input
+2
+3
+
+Result
+2
+6

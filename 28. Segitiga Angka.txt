@@ -1,0 +1,20 @@
+Buatlah program untuk membuat pola seperti pada contoh input dan contoh output.
+
+Spesifikasi Input
+
+Satu baris berisi satu buah bilangan bulat N (1 sampai 10).
+
+Spesifikasi Output
+Pola berukuran N × N dengan pola seperti pada contoh result.
+
+For example:
+
+Input
+5
+
+Result
+1
+2 1
+4 2 1
+8 4 2 1
+16 8 4 2 1

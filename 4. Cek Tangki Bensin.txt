@@ -1,0 +1,19 @@
+Seseorang akan membeli bensin premium (7600) sebanyak uang yang dia miliki.
+
+Setiap kendaraan memilki kapasitas bensin yang berbeda-beda. Tangki bensin kendaraan kemungkinan tidak cukup menampung bensin yang dibeli.
+
+Buatlah sebuah program untuk menghitung jumlah bensin yang dibeli dengan uang tertentu, dan tentukan apakah kapasitas tangki mencukupi atau tidak.
+
+Spesifikasi Input
+Satu baris berisi bilangan bulat yang menunjukkan uang yang dibayar (7600 ≤ uang ≤ 76000) dan bilangan riil yang menunjukkan kapasitas bensin kendaraan ( 1 ≤ kapasitas ≤ 10 ).
+
+Spesifikasi Output
+Satu baris berisi jumlah bensin yang dibeli dengan dua angka dibelakang koma dan keterangan tangki bensin yang tidak mencukupi apabilan jumlah bensin yang dibeli melebih kapasitas tangki.
+For example:
+
+Input	Result
+7600 5.00
+1.00
+15000 1.00
+1.97
+Bensin Berlebih

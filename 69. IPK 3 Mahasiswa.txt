@@ -1,0 +1,41 @@
+Diketahui terdapat 4 mata kuliah di Semester 1 di Jurusan Teknik Komputer dan Informatika, dengan bobot sks sebagai berikut :
+
+Dasar Dasar Pemrograman : 4
+Matematika Diskrit : 3
+Matematika Terapan : 3
+Kognitif Komputasi : 2
+
+Setiap nilai yang diberikan dosen berupa suatu karakter A-E, dengan bobot sebagai berikut :
+
+A : 4
+B : 3
+C : 2
+D : 1
+E : 0
+
+Buatlah program untuk menghitung IPK dari 3 mahasiswa dengan input nama, nilai yang di dapat masing masing mata kuliah, dan outputkan IPK yang di dapat.
+
+
+Spesifikasi Input
+Baris pertama berisi nama mahasiswa ke-1
+Baris kedua berisi nilai-nilai yang didapat pada mata kuliah DDP,MD,MT, dan KOG dalam bentuk Karakter A-E.
+Setiap 2 baris berikutnya merupakan baris nama dan baris nilai mahasiswa ke-2 dan ke-3.
+
+
+Spesifikasi Output
+3 Baris yang menunjukkan nama mahasiswa dan IPK mahasiswa tersebut dalam 2 angka dibelakang koma.
+
+For example:
+
+Input
+Ridwan
+B B A C
+Taufik
+A B B B
+Krisna
+B B B A
+
+Result
+Ridwan 3.08
+Taufik 3.33
+Krisna 3.17

@@ -1,0 +1,17 @@
+Pada kata “Politeknik”, ada delapan ragam jenis huruf, yaitu ‘p’, ‘o’, ‘l’, ‘i’ (yang muncul dua kali), ‘t’, ‘e’, ‘k’ (yang muncul dua kali), dan ‘n’.
+
+Buatlah sebuah program untuk menghitung ragam jenis huruf dari sebuah string yang dibaca. (Huruf kecil dan huruf besar dianggap sama.)
+
+Spesifikasi Input
+Satu baris berisi string/array karakter dengan panjang maksimal 26 elemen. String dijamin hanya berisi karakter alfabet.
+
+Spesifikasi Output
+Satu baris berisi bilangan bulat yang menyatakan jumlah ragam jenis huruf pada string yang dibaca.
+
+For example:
+Politeknik
+Momon
+
+Result
+8
+3

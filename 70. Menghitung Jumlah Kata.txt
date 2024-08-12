@@ -1,0 +1,18 @@
+Diberikan sebuah kalimat yang terdiri atas 1 sampai 1000 karakter. Buatlah program untuk menghitung jumlah kata yang ada dalam kalimat tersebut.
+
+Spesifikasi Input
+Satu baris berisi sebuah kalimat dengan panjang karakter maksimal 10.000 karakter
+
+Spesifikasi Output
+Sebuah baris berisi jumlah kata yang ada dalam 1 kalimat.
+
+Satu kata bisa terdiri dari hanya satu huruf.
+For example:
+
+Input
+Politeknik Negeri Bandung
+POLITEKNIKNEGERIBANDUNG
+
+Result
+3
+1

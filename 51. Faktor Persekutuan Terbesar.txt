@@ -1,0 +1,21 @@
+FPB (Faktor Persekutuan Terbesar) dari dua buah bilangan bulat A dan B adalah bilangan bulat non-negatif terbesar yang membagi A dan membagi B.
+
+
+Buatlah program untuk menentukan FPB dari dua variabel.
+
+Spesifikasi Input
+Satu baris berisi dua buah bilangan bulat A dan B  (1 ≤ A,B ≤ 200 ).
+
+Spesifikasi Output
+Satu baris berisi sebuah bilangan bulat FPB dari A dan B.
+
+
+For example:
+
+Input
+4 6
+36 27
+
+Result:
+2
+9

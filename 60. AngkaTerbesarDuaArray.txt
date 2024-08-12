@@ -1,0 +1,25 @@
+Buatlah program untuk menentukan nilai terbesar dari dua buah array yang masing masing berisi 10 buah bilangan bulat. Gunakan konsep modular untuk menyelesaikan soal berikut, gunakan fungsi yang sudah pernah dibuat pada soal sebelumnya.
+
+Spesifikasi Input
+
+Dua baris berisi :
+Baris pertama berisi sepuluh buah bilangan bulat yang menunjukkan bilangan-bilangan pada array pertama
+Baris kedua berisi sepuluh buah bilangan bulat yang menunjukkan bilangan-bilangan pada array kedua
+
+Spesifikasi Output
+Satu baris berisi dua buah bilangan bulat yang menunjukkan nilai terbesar dari array pertama dan nilai terbesar dari array kedua.
+
+
+For example:
+
+Input
+1 2 3 4 5 6 7 8 9 10
+11 12 13 14 15 16 17 18 19 20
+
+9 8 7 6 5 4 3 2 1 0
+1 3 5 7 9 11 13 15 17 19
+
+Result
+10 20
+
+9 19

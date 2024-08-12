@@ -1,0 +1,20 @@
+Kelipatan persekutuan terkecil (KPK) dari dua bilangan adalah bilangan bulat positif terkecil yang dapat dibagi habis oleh kedua bilangan itu.
+
+
+Buatlah program untuk menentukan KPK dari dua variabel.
+
+Spesifikasi Input
+Satu baris berisi dua buah bilangan bulat A dan B  (1 sampai 200 ).
+
+Spesifikasi Output
+Satu baris berisi sebuah bilangan bulat KPK dari A dan B.
+
+For example:
+
+Input
+4 6
+36 27
+
+Result
+12
+108

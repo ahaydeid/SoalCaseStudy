@@ -1,0 +1,21 @@
+Kelipatan persekutuan terkecil (KPK) dari dua bilangan adalah bilangan bulat positif terkecil yang dapat dibagi habis oleh kedua bilangan itu. KPK dari tiga bilangan adalah bilangan bulat positif terkecil yang dapat dibagi habis oleh ketiga bilangan itu. Contoh KPK dari 12 10 5 adalah 60.
+
+Buatlah program untuk menentukan KPK dari tiga buah bilangan.
+
+(Silahkan gunakan modul FPB yang sudah dibuat sebelumnya jika diperlukan dalah perhitungan KPK).
+
+Spesifikasi Input
+Satu baris berisi tiga buah bilangan bulat A,B dan C ( 1 ≤ A,B,C ≤ 500 ).
+
+Spesifikasi Output
+Satu baris berisi sebuah bilangan bulat KPK dari A,B, dan C.
+
+For example:
+
+Input
+12 10 5
+20 10 5
+
+Result
+60
+20

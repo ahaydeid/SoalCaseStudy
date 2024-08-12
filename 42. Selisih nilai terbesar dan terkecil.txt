@@ -1,0 +1,17 @@
+Buatlah sebuah program untuk menghitung selisih dari nilai terbesar dan nilai terkecil dari sebuah array 1 dimensi bertipe integer dengan 10 elemen.
+
+Spesifikasi Input
+Satu baris berisi 10 buah bilangan integer.
+
+Spesifikasi Output
+Satu baris berisi bilangan bulat yang menyatakan selisih dari nilai terbesar dan nilai terkecil dari array tersebut.
+
+For example:
+
+Input
+0 1 2 3 4 5 6 7 8 9
+12 104 6 90 98 16 20 14 16 200
+
+Result
+9
+194

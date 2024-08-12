@@ -1,0 +1,17 @@
+Buatlah program untuk menukar nilai dari dua angka pada suatu variabel, gunakan konsep modular untuk menjalankan proses tersebut, agar modul tersebut nantinya dapat dimanfaatkan untuk membuat algoritma yang lain.
+
+Spesifikasi Input
+Satu baris berisi dua buah bilangan bulat, yang menunjukkan bilangan ke-1 dan bilangan ke-2
+
+Spesifikasi Output
+Satu barus berisi dua buah bilangan bulat, yang menunjukkan bilangan ke-1 dan bilangan ke-2 yang sudah ditukar nilainya.
+
+For example:
+
+Input
+1 2
+10 8
+
+Result
+2 1
+8 10

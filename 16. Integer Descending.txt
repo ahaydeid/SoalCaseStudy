@@ -1,0 +1,15 @@
+Buatlah program untuk mengurutkan tiga data integer yang dimasukkan secara descending (dari besar ke kecil).
+
+Spesifikasi Input
+Satu baris berisi tiga buah bilangan bulat. Masing-masing bilangan bulat memiliki jangkauan nilai -300 sampai 300.
+
+Spesifikasi Output
+Satu baris berisi tiga buah bilangan bulat yang sudah terurut secara descending, dipisahkan oleh satu spasi.
+
+For example:
+
+Input
+5 8 6
+
+Result
+8 6 5

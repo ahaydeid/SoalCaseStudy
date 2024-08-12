@@ -1,0 +1,18 @@
+Buat program untuk menentukan harga termurah dari dua barang
+
+Spesifikasi Input
+Satu baris berisi bilangan bulat yang menunjukkan harga barang pertama dan harga barang kedua.
+
+Spesifika
+Satu baris berisi harga barang yang termurah
+
+For example:
+
+Input
+8500 9500
+10000 6400
+
+
+Result
+8500
+6400

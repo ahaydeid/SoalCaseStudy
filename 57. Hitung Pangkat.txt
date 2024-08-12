@@ -1,0 +1,17 @@
+Buatlah program untuk menghitung nilai pangkat dengan menggunakan konsep modular untuk menghitungnya.
+
+Spesifikasi Input
+Satu baris berisi dua buah bilangan bulat yang menujukkan bilangan ke-1 dan bilangan ke-2 (0 ≤ bil-1, bil-2 ≤ 1000)
+
+Spesifikasi Output
+Satu barus berisi sebuah bilangan bulat hasil dari bilangan ke-1 pangkat bilangan ke-2.
+
+For example:
+
+Input
+2 4
+2 2
+
+Result
+16
+4

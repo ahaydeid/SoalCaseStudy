@@ -1,0 +1,25 @@
+Buatlah sebuah fungsi float rerata(int data[], int N) untuk mencari rata-rata dari suatu kumpulan data, kemudian buatlah sebuah program yang menggunakan fungsi tersebut.
+
+Spesifikasi Input
+
+
+Baris pertama berisi sebuah bilangan bulat N (1 ≤ N ≤ 100) yang menyatakan jumlah data.
+
+Baris kedua berisi N buah bilangan bulat X (-1.000 ≤ X ≤ 1.000), di mana X masing-masing merupakan anggota dari kumpulan data yang dimaksud.
+Spesifikasi Output
+
+Satu baris berisi nilai rata-rata dari kumpulan data yang diberikan dengan dua angka di belakang koma.
+
+For example:
+
+Input:
+10
+1 2 3 4 5 6 7 8 9 10
+
+8
+2 9 0 5 1 9 6 4
+
+Result:
+5.50
+
+4.50

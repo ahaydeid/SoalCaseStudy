@@ -1,0 +1,25 @@
+Buatlah sebuah program untuk menentukan bilangan terbesar dari tiga bilangan yang dimasukkan.
+
+Spesifikasi Input
+
+Tiga baris, masing-masing berisi satu bilangan bulat Xi (-30 sampai ≤ 30).
+
+Spesifikasi Output
+
+Satu baris berisi bilangan bulat terbesar dari tiga bilangan bulat input.
+
+For example:
+
+Input
+12
+5
+3
+
+9
+6
+10
+
+Result
+12
+
+10

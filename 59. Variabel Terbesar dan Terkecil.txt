@@ -1,0 +1,17 @@
+Buatlah program untuk menentukan nilai terbesar dan terkecil dari dua variabel, gunakan konsep modular untuk menentukan nilai terbesar dan terkecil.
+
+Spesifikasi Input
+Satu baris berisi dua buah bilangan bulat yang menunjukkan bilangan ke-1 dan bilangan ke-2.
+
+Spesifikasi Output
+Satu baris be risi bilangan bulat terbesar dan bilangan bulat terkecil.
+
+For example:
+
+Input
+0 1
+3 5
+
+Result
+1 0
+5 3

@@ -1,0 +1,20 @@
+Seorang arkeolog bernama Pak Wono sedang membaca literatur kuno. Di dalam literatur tersebut terdapat banyak sekali angka Romawi. Sayangnya, Pak Wono sering tertidur di tengah perkuliahan ketika masih muda dahulu. Kebetulan, sekali waktu Pak Wono tertidur, dosennya sedang menerangkan mengenai angka romawi dan desimal.
+
+Pak Wono ingat bahwa ia berteman dengan Anda, seorang mahasiswa yang sedang belajar informatika di POLBAN. Bantulah Pak Wono membaca angka Romawi yang ia temukan!
+
+Spesifikasi Input
+Satu baris berisi sebuah angka Romawi dengan panjang maksimal 15 karakter, di mana pada representasi desimalnya, angka ini tidak akan lebih besar dari 4.000 dan selalu positif.
+Angka Romawi yang dimasukkan dijamin valid.
+
+Spesifikasi Output
+Satu baris berisi sebuah bilangan bulat yang merupakan representasi desimal dari angka Romawi yang dibaca Pak Wono.
+
+
+
+For example:
+
+Input
+XXIV
+
+Result
+24

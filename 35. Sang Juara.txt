@@ -1,0 +1,42 @@
+Diketahui orang-orang yang menjadi juara catur dan orang-orang yang menjadi juara badminton. Buatlah program untuk menampilkan siapa saja yang menjadi juara di dua cabang lomba tersebut.
+
+Karena Anda adalah sang juara, maka tampilkan daftar pemenang dalam kondisi terurut descending.
+
+Spesifikasi Input
+Baris pertama berisi sebuah bilangan bulat N (1 sampai 5) yang menunjukkan jumlah orang dengan predikat juara catur.
+baris berikutnya nama-nama nama juara catur sejumlah N orang.
+
+Baris selanjutnya berisi sebuah bilangan bulat M (1 sampai 5) yang menunjukkan jumlah orang dengan predikat juara badminton.
+baris berikutnya nama-nama nama juara badminton sejumlah M orang.
+
+Panjang masing-masing nama maksimal 100 karakter.
+
+
+Spesifikasi Output
+Tampilkan daftar nama yang menjuarai dua cabang lomba sekaligus. Masing-masing nama ditulis dalam satu baris. Tampilkan dalam kondisi terurut descending.
+Jika tidak ada yang menjuarai dua cabang lomba sekaligus, tampilkan “tidak ada sang juara”.
+
+
+For example:
+
+Input:
+3
+Budi
+Dudi suradi
+Iman
+3
+Astri
+Iman
+Dudi suradi
+
+1
+Andi
+1
+Indra
+
+
+Result:
+Iman
+Dudi suradi
+
+tidak ada sang juara

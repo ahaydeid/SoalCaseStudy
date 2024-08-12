@@ -1,0 +1,16 @@
+Palindrom adalah sebuah kata yang dibaca sama apabila urutan huruf-hurufnya dibalik. Misalnya, “apa”, “taat”, “malam”, dan lain-lain.
+
+Diberikan sebuah kalimat yang terdiri atas 1 sampai 10.000 karakter. Tiap kata pada kalimat tersebut terdiri atas 1 sampai 200 karakter ‘a’ sampai ‘z’ (huruf kecil semua). Buatlah program untuk menentukan ada berapa kata yang merupakan palindrom pada kalimat tersebut.
+
+Spesifikasi Input
+Satu baris berisi kalimat yang dimaksud.
+
+Spesifikasi Output
+Satu baris berisi sebuah bilangan bulat yang menyatakan jumlah kata yang merupakan palindrom pada kalimat tersebut.
+For example:
+
+Input
+apa yang dialami malam ini oleh anna dan saras tidak pernah ada
+
+Result
+6

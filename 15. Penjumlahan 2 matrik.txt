@@ -1,0 +1,27 @@
+Buatlah program untuk menghitung hasil penjumlahan matriks A dan matriks B, dengan A dan B berordo 3 × 3.
+
+Spesifikasi Input
+Tiga baris pertama berisi elemen-elemen matriks A.
+Tiga baris selanjutnya berisi elemen-elemen matriks B.
+
+
+Spesifikasi Output
+Tiga baris berisi elemen-elemen matriks hasil penjumlahan A + B, di mana elemen-elemen pada setiap baris dipisahkan oleh satu spasi.
+
+
+
+For example:
+
+Input
+1 0 0
+0 1 0
+0 0 1
+0 0 1
+0 1 0
+1 0 0
+
+Result
+
+1 0 1
+0 2 0
+1 0 1

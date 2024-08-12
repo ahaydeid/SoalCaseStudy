@@ -1,0 +1,17 @@
+Buatlah algoritma untuk menghitung banyaknya bilangan antara X dan Y yang tidak memiliki akhiran angka 4.
+
+Spesifikasi Input
+Satu baris berisi dua buah bilangan bulat X dan Y ( 1 ≤ X < Y ≤ 500 )
+
+Spesifikasi Output
+Satu baris berisi banyaknya bilangan antara X dan Y yang tidak memiliki akhiran angka 4.
+
+For example:
+
+Input
+1 10
+3 5
+
+Result
+7
+0

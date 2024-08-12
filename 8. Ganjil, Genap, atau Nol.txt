@@ -1,0 +1,25 @@
+Ganjil, Genap, atau Nol
+
+Buatlah sebuah program untuk menentukan apakah suatu bilangan termasuk bilangan ganjil atau genap.
+
+Spesifikasi Input
+Satu baris berisi bilangan bulat X (0 ≤ X ≤ 100).
+
+Spesifikasi Output
+Satu baris berisi “ganjil” (tanpa tanda petik) jika X merupakan bilangan ganjil, “genap” jika X merupakan bilangan genap, atau “nol” jika X merupakan bilangan nol.
+
+For example:
+
+Input:
+14
+75
+100
+99
+0
+
+Result:
+genap
+ganjil
+genap
+ganjil
+nol

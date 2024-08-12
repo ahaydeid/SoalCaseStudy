@@ -1,0 +1,25 @@
+Buatlah program untuk menentukan nilai median dari sekelompok data integer pada array 1 dimensi dengan maksimal 20 elemen.
+
+Keterangan:
+Sangat mungkin bahwa tidak semua elemen terisi.
+0 (nol) tidak sama dengan kosong.
+Data dijamin selalu terurut dari kecil ke besar (ascending).
+
+Spesifikasi Input
+Baris pertama berisi sebuah bilangan bulat N.
+Baris kedua berisi N buah bilangan bulat yang merupakan data pada array, terurut ascending.
+
+Spesifikasi Output
+Satu baris berisi sebuah bilangan riil dengan satu angka di belakang koma
+
+For example:
+
+Input
+5
+0 1 2 3 4
+4
+22 23 40 50
+
+Result
+2.0
+31.5
